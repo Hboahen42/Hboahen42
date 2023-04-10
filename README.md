@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Humphrey Agyenim-Boateng Boahen</h1>
+<h1 align="center">Hi 👋, I'm Humphrey</h1>
 <h3 align="center">A passionate computer programmer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRmNjA3MTdjZjMzY2UyOWI5YzZiMzMyOWFiMDgxN2E1OTZmY2RhNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
 
