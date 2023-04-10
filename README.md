@@ -8,9 +8,9 @@
 
 - 👯 **I’m looking to collaborate on anything that has to do with robotics.**
 
-- 💬 Ask me about **World Robot Olympiad(WRO), Robofest, Robotics Inspired Science Education(RiSE) **
+- 💬 Ask me about **World Robot Olympiad(WRO), Robofest, Robotics Inspired Science Education(RiSE)**
 
-- ⚡ Fun fact ** I like video games and soccer. I also like hanging out with friends and having fun. I love anime.**
+- ⚡ Fun fact **I like video games and soccer. I also like hanging out with friends and having fun. I love anime.**
 
 - 📫 How to reach me **humphreyboahen432@gmail.com**
 
