@@ -1,5 +1,5 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
-<h1 align="center">Hi 👋, I'm Humphrey Agyenim-Baoteng Boahen</h1>
+<h1 align="center">Hi 👋, I'm Humphrey Agyenim-Boateng Boahen</h1>
 <h3 align="center">A passionate computer programmer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRmNjA3MTdjZjMzY2UyOWI5YzZiMzMyOWFiMDgxN2E1OTZmY2RhNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/humphrey (agyenim-boateng) boahen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humphrey (agyenim-boateng) boahen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Humphrey (Agyenim-Boateng) Boahen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humphrey (agyenim-boateng) boahen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
