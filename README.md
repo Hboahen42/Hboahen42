@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frozen-Fear42&show_icons=true&locale=en&layout=compact" alt="Frozen-Fear42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frozen-fear42&show_icons=true&locale=en" alt="frozen-fear42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frozen-Fear42&show_icons=true&locale=en" alt="Frozen-Fear42" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frozen-fear42&" alt="frozen-fear42" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frozen-Fear42&" alt="Frozen-Fear42" /></p>
