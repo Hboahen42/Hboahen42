@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Humphrey</h1>
-<h3 align="center">A passionate software developer from Ghana</h3>
+<h3 align="center">A passionate web developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRmNjA3MTdjZjMzY2UyOWI5YzZiMzMyOWFiMDgxN2E1OTZmY2RhNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frozen-fear42&label=Profile%20views&color=0e75b6&style=flat" alt="frozen-fear42" /> </p>
