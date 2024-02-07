@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frozen-fear42&label=Profile%20views&color=0e75b6&style=flat" alt="frozen-fear42" /> </p>
 
 
-- 👯 **I’m looking to collaborate on anything that has to do with robotics.**
+- 👯 **I’m looking to collaborate on anything that has to do with robotic.**
 
 - 💬 Ask me about **World Robot Olympiad(WRO), Robofest, Robotics Inspired Science Education(RiSE)**
 
